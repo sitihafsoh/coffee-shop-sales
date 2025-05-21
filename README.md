@@ -37,7 +37,7 @@ Microsoft Excel 365 & Tableau
   - Investigate February Dip: Determine the cause of the February decline in revenue and transactions across all branches. Was it due to seasonality, a specific event, or other factors?
   - Optimize Lower Manhattan: Analyze why Lower Manhattan consistently underperforms. Is it location, competition, or a different customer base? Implement targeted strategies to boost revenue and transactions at this branch. 
   - Leverage Morning Peak: Since 6-10 am is the busiest time, consider strategies to maximize revenue during this period, such as: 
-    a. Promoting breakfast combos or special offers
-    b. Ensuring adequate staffing and quick service 
+    - Promoting breakfast combos or special offers
+    - Ensuring adequate staffing and quick service 
   - Smooth out daily transactions in Lower Manhattan Branch: Consider making promotion or discount in the quiet days for Lower Manhattan 
 
