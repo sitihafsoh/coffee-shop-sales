@@ -20,7 +20,7 @@ The analysis seeks to identify and understand patterns in revenue and transactio
 ## Tools
 Microsoft Excel 365 & Tableau
 
-## Conclusion
+## Conclusions
 1. General Performance and Trends: 
   - The business experienced a general revenue and transaction dip in February, but strongly recovered and grew through June across all branches.
   - Morning hours (6-10 am) are the busiest across all branches.
@@ -32,4 +32,12 @@ Microsoft Excel 365 & Tableau
   - A similar pattern in product preference is observed across all branches, with Brewed Chai Tea, Gourmet Brewed Coffee, and Barista Espresso being top performers.
   - The product that not listed in the tables (see the slide of presentation) have very low sales.
 
+## Recommendations
+1. Revenue & Transactions 
+  - Investigate February Dip: Determine the cause of the February decline in revenue and transactions across all branches. Was it due to seasonality, a specific event, or other factors?
+  - Optimize Lower Manhattan: Analyze why Lower Manhattan consistently underperforms. Is it location, competition, or a different customer base? Implement targeted strategies to boost revenue and transactions at this branch. 
+  - Leverage Morning Peak: Since 6-10 am is the busiest time, consider strategies to maximize revenue during this period, such as: 
+    a. Promoting breakfast combos or special offers
+    b. Ensuring adequate staffing and quick service 
+  - Smooth out daily transactions in Lower Manhattan Branch: Consider making promotion or discount in the quiet days for Lower Manhattan 
 
