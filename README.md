@@ -53,5 +53,8 @@ Microsoft Excel 365 & Tableau
   - Lower Manhattan: Develop strategies to increase customer traffic on Tuesdays, Wednesdays, Saturdays, and Sundays, which are currently quieter. 
 
 ## Dashboard
+![Dashboard](https://github.com/user-attachments/assets/e3af013d-e47f-47b8-9b6d-0700267c1410)
+
+Klik link below to try the interactive dashboard in Tableau:
 [Coffee Shop Sales Dashboard](https://public.tableau.com/views/CoffeeShopSales_17468862700430/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 https://public.tableau.com/views/CoffeeShopSales_17468862700430/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
