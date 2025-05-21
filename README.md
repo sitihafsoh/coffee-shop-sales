@@ -39,5 +39,16 @@ Microsoft Excel 365 & Tableau
   - Leverage Morning Peak: Since 6-10 am is the busiest time, consider strategies to maximize revenue during this period, such as: 
     - Promoting breakfast combos or special offers
     - Ensuring adequate staffing and quick service 
-  - Smooth out daily transactions in Lower Manhattan Branch: Consider making promotion or discount in the quiet days for Lower Manhattan 
+  - Smooth out daily transactions in Lower Manhattan Branch: Consider making promotion or discount in the quiet days for Lower Manhattan
+2. Product Strategy 
+  - Promote Top Sellers: Continue to focus on promoting Coffee, Tea, and Bakery items, as they are the most popular. Consider expanding the offerings within these categories.
+  - Evaluate Underperforming Categories: Analyze why some underperforming products have low sales. Consider: 
+    - Repositioning or rebranding these products
+    - Changing the pricing strategy
+    - Discontinuing them if they are not profitable 
+  - Optimize Product Mix: Since the top 15 products in each branch (Astoria, Hell's Kitchen, and Lower Manhattan) drive the majority of sales, ensure these items are always well-stocked and prominently displayed.
+3. Branch-Specific Strategies
+  - Astoria: Capitalize on high activity on Monday, Wednesday, Thursday, and Friday.
+  - Hell's Kitchen: Focus on maintaining momentum on Tuesday, Thursday, Friday, and Sunday.
+  - Lower Manhattan: Develop strategies to increase customer traffic on Tuesdays, Wednesdays, Saturdays, and Sundays, which are currently quieter. 
 
