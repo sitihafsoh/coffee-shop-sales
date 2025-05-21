@@ -1,4 +1,4 @@
-# Maven Roasters: Coffee Shop Sales
+<h1 align="center">Maven Roasters: Coffee Shop Sales</h1>
 ![MAVEN ROASTER BANNER](https://github.com/user-attachments/assets/f68c0e6e-1f5e-4e17-8b17-211c0ce464a2)
 
 ## Background
