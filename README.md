@@ -9,3 +9,27 @@ Maven Roasters is a coffee shop chain with three locations in New York City: Ast
 ## Stakeholder
 1. Maven Roasters’s Franchise Owner
 2. Operations & Branch Management Division
+
+## Problem Statement
+The analysis seeks to identify and understand patterns in revenue and transaction fluctuations over time, pinpointing any periods of decline. It also aims to uncover performance disparities among branches, determine unique customer behavior patterns by day and hour, and identify both underperforming and top-selling product categories to optimize overall business operations.
+
+## Objectives
+1. To better understand purchase behavior and streamline operations using collected transactional data from Jan-Jun 2023.​
+2. To transform the data into a dynamic dashboard that franchise owners can use to identify patterns, trends and opportunities for the business.
+
+## Tools
+Microsoft Excel 365 & Tableau
+
+## Conclusion
+1. General Performance and Trends: 
+  - The business experienced a general revenue and transaction dip in February, but strongly recovered and grew through June across all branches.
+  - Morning hours (6-10 am) are the busiest across all branches.
+2. Branch-Specific Observations: 
+  - Lower Manhattan consistently underperforms compared to Astoria and Hell's Kitchen, exhibiting the lowest revenue and transaction volumes, and earlier decline in daily transactions.
+  - Each branch has unique peak transaction days: Astoria (Mon, Wed, Thurs, Fri), Hell's Kitchen (Tue, Thurs, Fri, Sun), and Lower Manhattan (Mon, Thurs, Fri)
+3. Product Performance: 
+  - Coffee, Tea, Bakery, Drinking Chocolate, and Flavours are the most popular product categories.
+  - A similar pattern in product preference is observed across all branches, with Brewed Chai Tea, Gourmet Brewed Coffee, and Barista Espresso being top performers.
+  - The product that not listed in the tables (see the slide of presentation) have very low sales.
+
+
