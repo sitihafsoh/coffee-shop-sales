@@ -52,3 +52,6 @@ Microsoft Excel 365 & Tableau
   - Hell's Kitchen: Focus on maintaining momentum on Tuesday, Thursday, Friday, and Sunday.
   - Lower Manhattan: Develop strategies to increase customer traffic on Tuesdays, Wednesdays, Saturdays, and Sundays, which are currently quieter. 
 
+## Dashboard
+[Coffee Shop Sales Dashboard](https://public.tableau.com/views/CoffeeShopSales_17468862700430/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/CoffeeShopSales_17468862700430/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
